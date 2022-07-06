@@ -18,7 +18,7 @@ body {
     background-size: cover;
     background-position: top right;
     background-repeat: no-repeat;
-    background-image: url(background-top-2.jpg);
+    background-image: url(/imagem/background-top-2.jpg);
 }
 .filtro-top {
     width: 100%;
@@ -31,8 +31,7 @@ body {
     justify-content: space-between;
     padding: 30px 50px;
 }
-.netflix-logo{
-    fill: #e50914;
+#netflix-logo{
     width: 134px;
     height: 36px;
 }
@@ -180,7 +179,7 @@ main {
     color: #0077ff;
 }
 .animation {
-    background: url(download-icon.gif) 50% no-repeat;
+    background: url(/imagem/download-icon.gif) 50% no-repeat;
     background-size: 100%;
     height: 3em;
     width: 3em;
@@ -509,7 +508,7 @@ footer a:hover {
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
-        background-image: url(background-top-2.jpg);
+        background-image: url(/imagem/background-top-2.jpg);
     }
     .header-elements{
         display: flex;
@@ -685,7 +684,7 @@ footer a:hover {
         color: #0077ff;
     }
     .animation {
-        background: url(download-icon.gif) 50% no-repeat;
+        background: url(/imagem/download-icon.gif) 50% no-repeat;
         background-size: 100%;
         height: 3em;
         width: 3em;
@@ -977,7 +976,7 @@ footer a:hover {
         color: #0077ff;
     }
     .animation {
-        background: url(download-icon.gif) 50% no-repeat;
+        background: url(/imagem/download-icon.gif) 50% no-repeat;
         background-size: 100%;
         height: 3em;
         width: 3em;
@@ -1766,7 +1765,7 @@ footer a:hover {
         color: #0077ff;
     }
     .animation {
-        background: url(download-icon.gif) 50% no-repeat;
+        background: url(/imagem/download-icon.gif) 50% no-repeat;
         background-size: 100%;
         height: 3em;
         width: 3em;
@@ -2050,7 +2049,7 @@ footer a:hover {
         color: #0077ff;
     }
     .animation {
-        background: url(download-icon.gif) 50% no-repeat;
+        background: url(/imagem/download-icon.gif) 50% no-repeat;
         background-size: 100%;
         height: 3em;
         width: 3em;
@@ -2383,7 +2382,7 @@ footer a:hover {
         color: #0077ff;
     }
     .animation {
-        background: url(download-icon.gif) 50% no-repeat;
+        background: url(/imagem/download-icon.gif) 50% no-repeat;
         background-size: 100%;
         height: 3em;
         width: 3em;
@@ -2506,7 +2505,7 @@ footer a:hover {
         color: #0077ff;
     }
     .animation {
-        background: url(download-icon.gif) 50% no-repeat;
+        background: url(/imagem/download-icon.gif) 50% no-repeat;
         background-size: 100%;
         height: 3em;
         width: 3em;
@@ -2714,7 +2713,7 @@ footer a:hover {
         color: #0077ff;
     }
     .animation {
-        background: url(download-icon.gif) 50% no-repeat;
+        background: url(/imagem/download-icon.gif) 50% no-repeat;
         background-size: 100%;
         height: 3em;
         width: 3em;
@@ -2859,7 +2858,7 @@ footer a:hover {
         color: #0077ff;
     }
     .animation {
-        background: url(download-icon.gif) 50% no-repeat;
+        background: url(/imagem/download-icon.gif) 50% no-repeat;
         background-size: 100%;
         height: 3em;
         width: 3em;
@@ -2977,6 +2976,10 @@ footer a:hover {
 }
 
 @media screen and (max-width: 450px){
+    #netflix-logo{
+        width: 120px;
+        height: 36px;
+    }
     .cell img {
         width: 250px;
         height: 350px;
