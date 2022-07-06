@@ -18,7 +18,7 @@ body {
     background-size: cover;
     background-position: top right;
     background-repeat: no-repeat;
-    background-image: url(/imagem/background-top-2.jpg);
+    background-image: url(background-top-2.jpg);
 }
 .filtro-top {
     width: 100%;
@@ -179,7 +179,7 @@ main {
     color: #0077ff;
 }
 .animation {
-    background: url(/imagem/download-icon.gif) 50% no-repeat;
+    background: url(download-icon.gif) 50% no-repeat;
     background-size: 100%;
     height: 3em;
     width: 3em;
@@ -508,7 +508,7 @@ footer a:hover {
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
-        background-image: url(/imagem/background-top-2.jpg);
+        background-image: url(background-top-2.jpg);
     }
     .header-elements{
         display: flex;
@@ -684,7 +684,7 @@ footer a:hover {
         color: #0077ff;
     }
     .animation {
-        background: url(/imagem/download-icon.gif) 50% no-repeat;
+        background: url(download-icon.gif) 50% no-repeat;
         background-size: 100%;
         height: 3em;
         width: 3em;
@@ -976,7 +976,7 @@ footer a:hover {
         color: #0077ff;
     }
     .animation {
-        background: url(/imagem/download-icon.gif) 50% no-repeat;
+        background: url(download-icon.gif) 50% no-repeat;
         background-size: 100%;
         height: 3em;
         width: 3em;
@@ -1765,7 +1765,7 @@ footer a:hover {
         color: #0077ff;
     }
     .animation {
-        background: url(/imagem/download-icon.gif) 50% no-repeat;
+        background: url(download-icon.gif) 50% no-repeat;
         background-size: 100%;
         height: 3em;
         width: 3em;
@@ -2049,7 +2049,7 @@ footer a:hover {
         color: #0077ff;
     }
     .animation {
-        background: url(/imagem/download-icon.gif) 50% no-repeat;
+        background: url(download-icon.gif) 50% no-repeat;
         background-size: 100%;
         height: 3em;
         width: 3em;
@@ -2382,7 +2382,7 @@ footer a:hover {
         color: #0077ff;
     }
     .animation {
-        background: url(/imagem/download-icon.gif) 50% no-repeat;
+        background: url(download-icon.gif) 50% no-repeat;
         background-size: 100%;
         height: 3em;
         width: 3em;
@@ -2505,7 +2505,7 @@ footer a:hover {
         color: #0077ff;
     }
     .animation {
-        background: url(/imagem/download-icon.gif) 50% no-repeat;
+        background: url(download-icon.gif) 50% no-repeat;
         background-size: 100%;
         height: 3em;
         width: 3em;
@@ -2713,7 +2713,7 @@ footer a:hover {
         color: #0077ff;
     }
     .animation {
-        background: url(/imagem/download-icon.gif) 50% no-repeat;
+        background: url(download-icon.gif) 50% no-repeat;
         background-size: 100%;
         height: 3em;
         width: 3em;
@@ -2858,7 +2858,7 @@ footer a:hover {
         color: #0077ff;
     }
     .animation {
-        background: url(/imagem/download-icon.gif) 50% no-repeat;
+        background: url(download-icon.gif) 50% no-repeat;
         background-size: 100%;
         height: 3em;
         width: 3em;
